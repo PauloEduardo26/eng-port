@@ -173,7 +173,6 @@ main .menu .scroll-back{
 }
 .projects li div a {
     padding: 10px;
-    margin-right: 20px;
     border-radius: 20px;
 }
 .projects li div a:hover{
